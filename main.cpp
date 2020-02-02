@@ -33,88 +33,118 @@ arm.rotateCounterClockwise(); //demonstrates CamelCase
 
 /*
  1)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: cat 
+ action 1: walk
+ action 2: eat
+ action 3: curls up in lap
  */
+cat.walk();
+cat.eat();
+cat.curlsUpInLap();
 
 
 /*
  2)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: plane
+ action 1: rotates in lateral plane
+ action 2: rotates in frontal plane
+ action 3: rotates in vertical plane
  */
+
+ plane.rotateLateralPlane();
+ plane.rotateFrontalPlane();
+ plane.rotateVerticalPlane();
 
 /*
  3)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: person
+ action 1: shows some emotion
+ action 2: thinks about stuff
+ action 3: talks to student
  */
+
+ person.showsSomeEmotion();
+ person.thinksAboutStuff();
+ person.talksToStudent();
 
 
 /*
  4)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: car
+ action 1: accelerates
+ action 2: decelerates
+ action 3: switches gear
  */
-
+car.accelerates();
+car.decelerates();
+car.switchesGear();
 /*
  5)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: water
+ action 1: flow
+ action 2: freeze
+ action 3: boil
  */
+water.flow();
+water.freeze();
+water.boil();
 
 
 /*
  6)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: basketball player
+ action 1: performs alley hoop
+ action 2: shoots three pointer
+ action 3: passes the ball
  */
-
+BasketballPlayer.performsAlleyHoop();
+BasketballPlayer.shootsThreePointer();
+BasketballPlayer.passesTheBall();
 /*
  7)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: doctor
+ action 1: diagnoses patient
+ action 2: gives prescription
+ action 3: talks to nurse
  */
+doctor.diagnosesPatient();
+doctor.givesPrescription();
+doctor.talksToNurse();
 
 
 /*
  8)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: snake
+ action 1: balls itself up
+ action 2: sheds skin
+ action 3: preys on rodent
  */
+snake.ballsItselfUp();
+snake.shedsSkin();
+snake.preysOnRodent();
 
 /*
  9)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: ghost
+ action 1: scares guests
+ action 2: haunts house
+ action 3: destroys powergrid
  */
+ghost.scaresGuests();
+ghost.hauntsHouse();
+ghost.destroysPowergrid();
 
 
 /*
  10)
- Noun:
- action 1:
- action 2:
- action 3:
+ Noun: policeman
+ action 1: arrests criminal
+ action 2: does paperwork
+ action 3: eats donut
  */
+ policeman.arrestsCriminal();
+ policeman.doesPaperwork();
+ policeman.eatsDonut();
 
 
 #endif
