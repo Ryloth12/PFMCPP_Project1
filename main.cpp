@@ -31,90 +31,83 @@ arm.extend();
 arm.flex();
 arm.rotateCounterClockwise(); //demonstrates CamelCase
 
-/*
- 1)
- Noun:
- action 1:
- action 2:
- action 3:
- */
+
+ 
+ cat;
+ cat.walk();
+ cat.eat();
+ cat.purr();
 
 
-/*
- 2)
- Noun:
- action 1:
- action 2:
- action 3:
- */
-
-/*
- 3)
- Noun:
- action 1:
- action 2:
- action 3:
- */
+number;
+number.add();
+number.substract();
+number.multiply();
 
 
-/*
- 4)
- Noun:
- action 1:
- action 2:
- action 3:
- */
-
-/*
- 5)
- Noun:
- action 1:
- action 2:
- action 3:
- */
 
 
-/*
- 6)
- Noun:
- action 1:
- action 2:
- action 3:
- */
-
-/*
- 7)
- Noun:
- action 1:
- action 2:
- action 3:
- */
+ plane;
+ plane.roll();
+ plane.pitch();
+ plane.yaw();
+ 
 
 
-/*
- 8)
- Noun:
- action 1:
- action 2:
- action 3:
- */
-
-/*
- 9)
- Noun:
- action 1:
- action 2:
- action 3:
- */
 
 
-/*
- 10)
- Noun:
- action 1:
- action 2:
- action 3:
- */
+ fruit;
+ fruit.ripe();
+ fruit.spoil();
+ fruit.grow();
+ 
+
+
+ person;
+ person.walk();
+ person.laugh();
+ person.think();
+
+
+
+
+ 
+ cloth;
+ cloth.setOnFire();
+ cloth.getDirty();
+ cloth.tear();
+
+
+ car;
+ car.speed();
+ car.brake();
+ car.switchGear();
+
+
+
+
+
+ 
+ musician;
+ musician.practice();
+ musician.earTrain();
+ musician.perform();
+
+
+ window;
+ window.close();
+ window.open();
+ window.destroy();
+ 
+
+
+
+
+ ball();
+ ball.bounce();
+ ball.fall();
+ ball.accelerate();
+ 
 
 
 #endif
